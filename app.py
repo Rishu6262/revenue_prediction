@@ -94,7 +94,7 @@ try:
     # Additional information
     st.info("""
     *Note:* This prediction is based on a machine learning model trained on historical coffee shop data.
-    Actual revenue may vary based on factors not included in this model.
+    Actual revenue may very based on factors not included in this model.
     """)
     
     # Visualization
